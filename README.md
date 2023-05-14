@@ -12,9 +12,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lix19937)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=lix19937)    
+<feff>![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=lix19937)    
 
-![Visitor Count](https://profile-counter.glitch.me/lix19937/count.svg)
+<feff>![Visitor Count](https://profile-counter.glitch.me/lix19937/count.svg)
 
 
  
