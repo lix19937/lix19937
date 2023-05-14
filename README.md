@@ -1,7 +1,5 @@
 ### Hello, world.    
 
-I am lix19937, pay tribute to [mt19937](https://www.intel.com/content/www/us/en/docs/onemkl/developer-reference-vector-statistics-notes/2021-1/mt19937.html).  
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/lix19937">
