@@ -2,6 +2,8 @@
 
 I am lix19937, pay tribute to [mt19937](https://www.intel.com/content/www/us/en/docs/onemkl/developer-reference-vector-statistics-notes/2021-1/mt19937.html).  
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Image%20Processing;OCR;NN%20Deploy&font=Roboto" />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lix19937&show_icons=true&count_private=true)   
 
 
@@ -10,7 +12,6 @@ I am lix19937, pay tribute to [mt19937](https://www.intel.com/content/www/us/en/
 
 ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=lix19937)    
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=lix1997;OCR;NN%20deploy&font=Roboto" />
 
 
 
