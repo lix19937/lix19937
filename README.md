@@ -8,7 +8,14 @@ I am lix19937, pay tribute to [mt19937](https://www.intel.com/content/www/us/en/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lix19937)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=lix19937&theme=vue)    
+![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=lix19937)    
+
+
+![img](https://profile-counter.glitch.me/lix19937/count.svg)
+
+<!-- 可以使用img标签使其右对齐 -->
+<img align='right' src="https://profile-counter.glitch.me/lix19937/count.svg" width="200">
+
 
  
 
