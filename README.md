@@ -10,7 +10,7 @@ I am lix19937, pay tribute to [mt19937](https://www.intel.com/content/www/us/en/
 
 ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=lix19937)    
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=lix1997;OCR;NN deploy&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=lix1997;OCR;NN%20deploy&font=Roboto" />
 
 
 
