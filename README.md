@@ -10,11 +10,8 @@ I am lix19937, pay tribute to [mt19937](https://www.intel.com/content/www/us/en/
 
 ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=lix19937)    
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
 
-![img](https://profile-counter.glitch.me/lix19937/count.svg)
-
-<!-- 可以使用img标签使其右对齐 -->
-<img align='right' src="https://profile-counter.glitch.me/lix19937/count.svg" width="200">
 
 
  
