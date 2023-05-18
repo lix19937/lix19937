@@ -1,4 +1,4 @@
-<!-- This is lix19937 github profile ! -->  
+<!-- This is lix19937 github profile !            -->  
 <!-- Image Processing, OCR, NVIDIA HPC, NN Deploy -->  
 
 <!-- Hex code without # (eg. F724A9, default: 36BCF7)  RGB order ref https://github.com/DenverCoder1/readme-typing-svg?utm_source=ld246.com -->  
@@ -17,3 +17,5 @@
 ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=lix19937)    
 ![Visitor Count](https://profile-counter.glitch.me/lix19937/count.svg)   
 -->  
+
+<!--  end  20200814 -->
