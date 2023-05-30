@@ -1,7 +1,7 @@
-<!-- This is lix19937 github profile !            -->  
-<!-- Image Processing, OCR, NVIDIA HPC, NN Deploy -->  
+<!-- This is lix19937 github profile !    not native markdown            -->  
+<!-- Image Processing, OCR, NVIDIA HPC, NN Deploy                        -->  
 
-<!-- Hex code without # (eg. F724A9, default: 36BCF7)  RGB order ref https://github.com/DenverCoder1/readme-typing-svg?utm_source=ld246.com -->  
+<!-- Hex code # (eg. RRGGBB, F724A9, default: 36BCF7)  RGB order ref https://github.com/DenverCoder1/readme-typing-svg?utm_source=ld246.com -->  
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -20,4 +20,4 @@
 -->  
 
 
-<!--  20200808  by lix19937 @shanghai  19880804 19900210 19880719  -->   
+<!--  20200808  by lix19937 @shanghai  & 19880804 & 19900210 & 19880719  -->   
