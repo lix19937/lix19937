@@ -22,3 +22,5 @@
 <!-- http://www.30daydo.com/article/44566 -->
 <!-- kepp humility -->
 <!-- 20200808  by lix19937 @shanghai  & 19880804 & 19900210 & 19880719  -->   
+
+<!-- thanks https://raw.hellogithub.com/hosts -->    
