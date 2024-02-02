@@ -27,5 +27,5 @@
 <!--     https://developer.aliyun.com/article/1051415 -->    
 <!-- thanks https://raw.hellogithub.com/hosts -->    
 
-<!-- if you see here, you are the best! -->    
+<!-- if you see here, you are the best!  我首先需要了解它都能做什么，而不是具体细节是怎么做的。 <br> I first need to understand what it can do, rather than the specific details of how it is done. -->    
 
