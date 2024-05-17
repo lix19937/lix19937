@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/lix19937">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20lix19937(hblijinwen@126.com),%20pay%20tribute%20to%20mt19937;OCR,%20and%20NN%20deploy%20engineer;Keep%20learning%20new%20things,%20writing%20clean%20code!;我是%20lix19937(hblijinwen@126.com),%20致敬%20mt19937;一名%20OCR,%20以及%20NN部署（NV,Qualcomm,TI）%20工程师;不局限于%20智能驾驶%20领域;https://lix19937.github.io/guide/&font=Fira%20Code&center=true&width=860&height=50&color=307fff&vCenter=true&pause=1200&size=25" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20lix19937(hblijinwen@126.com),%20pay%20tribute%20to%20mt19937;OCR,%20and%20NN%20deploy%20engineer;Keep%20learning%20new%20things,%20writing%20clean%20code!;https://lix19937.github.io/guide/&font=Fira%20Code&center=true&width=860&height=50&color=307fff&vCenter=true&pause=1200&size=25" /></a>
 </p>
 
 |![GitHub stats](https://github-readme-stats.vercel.app/api?username=lix19937&show_icons=true&count_private=true&hide_border=true) |![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lix19937&layout=compact&hide_border=true)|   
