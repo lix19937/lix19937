@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/lix19937">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20lix19937(lix),%20pay%20tribute%20to%20mt19937;Keep%20learning%20new%20things,%20writing%20clean%20code!;https://lix19937.github.io/&font=Fira%20Code&center=true&width=850&height=50&color=307fff&vCenter=true&pause=1200&size=25" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20lix19937(lix),%20pay%20tribute%20to%20mt19937;https://lix19937.github.io/&font=Fira%20Code&center=true&width=850&height=50&color=307fff&vCenter=true&pause=1200&size=25" /></a>
 </p>
 
 |![GitHub stats](https://github-readme-stats.vercel.app/api?username=lix19937&show_icons=true&count_private=true&hide_border=true) |![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lix19937&layout=compact&hide_border=true)|   
